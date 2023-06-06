@@ -16,7 +16,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 "react-scripts": "5.0.1",
 "web-vitals": "^2.1.4"
 
-In the project directory, you can run:
-
-### `npm run build` fails to minify
+### `npm run dev` for running the client with nodemon
 
